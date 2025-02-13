@@ -31,7 +31,7 @@ class SHAJON:
         self.g = "\x1b[1;32m"
         self.r = "\x1b[1;31m"
         self.w = "\x1b[1;37m"
-        self.logo = (f' 
+        self.logo = (f' dP""
 [green_yellow]     [dark_olive_gre]       
 [green_yellow]    [dark_olive_gre]    
 [green_yellow]      [dark_olive_gre]    
